@@ -3,4 +3,4 @@
     Рассмотрим преимущества данного модуля;
     Сравним PyTest с UnitTest.
 
-    Домашнее задания файл vowel_counter.py  test_vowel_count.py
+    файл запуск vowel_counter.py  test_vowel_count.py
